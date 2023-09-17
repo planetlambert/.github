@@ -15,3 +15,4 @@ The goal of this project is to build high quality reference implementations of f
 ## Inspiration
 
 - https://karpathy.ai/zero-to-hero.html
+- https://github.com/zv/SICP-guile
