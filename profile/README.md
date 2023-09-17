@@ -11,3 +11,7 @@ The goal of this project is to build high quality reference implementations of f
 - [Frege to Gödel](https://www.amazon.com/Frege-Godel-Mathematical-1879-1931-Sciences/dp/0674324498) starting with [Begriffsschrift](https://en.wikipedia.org/wiki/Begriffsschrift)
 - [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
 - [Combinatory Logic](https://en.wikipedia.org/wiki/Combinatory_logic)
+
+## Inspiration
+
+- https://karpathy.ai/zero-to-hero.html
