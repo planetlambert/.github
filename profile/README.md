@@ -12,6 +12,8 @@ The goal of this project is to build high quality reference implementations of f
 
 - [Frege to Gödel](https://www.amazon.com/Frege-Godel-Mathematical-1879-1931-Sciences/dp/0674324498) starting with [Begriffsschrift](https://en.wikipedia.org/wiki/Begriffsschrift)
 - [Combinatory Logic](https://en.wikipedia.org/wiki/Combinatory_logic)
+- [McCulloch Pitts Neuron](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)
+- [Wolfram's Elementary Cellular Automata](https://en.m.wikipedia.org/wiki/Elementary_cellular_automaton)
 
 ## Inspiration
 
