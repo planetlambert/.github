@@ -15,6 +15,7 @@ The goal of this project is to build high quality reference implementations of f
 - [McCulloch Pitts Neuron](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)
 - [Wolfram's Elementary Cellular Automata](https://en.m.wikipedia.org/wiki/Elementary_cellular_automaton)
 - [Claude Shannon's Information Theory Paper](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+- [A Lisp (probably the original Scheme from the Lambda Papers)](https://research.scheme.org/lambda-papers/)
 
 ## Inspiration
 
