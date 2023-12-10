@@ -5,7 +5,7 @@ The goal of this project is to build high quality reference implementations of f
 ## In Progress
 
 - [github.com/planetlambert/turing](https://github.com/planetlambert/turing)
-- [github.com/planetlambert/lambda](https://github.com/planetlambert/combinator)
+- [github.com/planetlambert/combinator](https://github.com/planetlambert/combinator)
 
 
 ## Planned
