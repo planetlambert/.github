@@ -21,5 +21,5 @@ The goal of this project is to build high quality reference implementations of f
 - https://karpathy.ai/zero-to-hero.html
 - https://fermatslibrary.com/
 - https://jvns.ca/
-- https://github.com/zv/SICP-guile
+- https://ciechanow.ski
 - https://blog.acolyer.org/about/
