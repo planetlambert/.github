@@ -6,7 +6,7 @@ The goal of this project is to build high quality reference implementations of f
 
 - [github.com/planetlambert/turing](https://github.com/planetlambert/turing) - Alan Turing's 1936 paper, On Computable Numbers
 - [github.com/planetlambert/combinator](https://github.com/planetlambert/combinator) - Moses Schönfinkel's 1924 paper, On the Building Blocks of Mathematical Logic
-- [https://github.com/planetlambert/neuron](https://github.com/planetlambert/neuron) - Warren McCulloch and Walter Pitts' 1943 paper, A Logical Calculus of the Ideas Immanent in Nervous Activity
+- [github.com/planetlambert/neuron](https://github.com/planetlambert/neuron) - Warren McCulloch and Walter Pitts' 1943 paper, A Logical Calculus of the Ideas Immanent in Nervous Activity
 
 
 ## Planned
